@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111b21">
+  <meta name="description" content="适合三个人一起玩的派对游戏清单，含 Steam 国区价格、联机方式和三人适配度。">
+  <title>三人派对游戏表</title>
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="./" aria-label="三人派对游戏表首页"><span class="brand-mark">✳</span> 三人派对游戏表</a>
+      <span class="topbar-note">选一款，今晚开玩</span>
+    </div>
+  </header>
+  <main class="shell">
+    <section class="intro" aria-labelledby="page-title">
+      <div>
+        <p class="eyebrow">一起玩 · 一起笑 · 一起翻车</p>
+        <h1 id="page-title">三个人，<span>玩什么？</span></h1>
+        <p class="intro-copy">从轻松互坑到合作闯关，挑一款适合今晚的游戏。</p>
+      </div>
+      <div class="intro-graphic" aria-hidden="true"><span>①</span><span>②</span><span>③</span></div>
+    </section>
+
+    <section class="tools" aria-label="筛选游戏">
+      <label class="search-wrap"><span class="sr-only">搜索游戏</span><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索游戏名或玩法" autocomplete="off"></label>
+      <label><span class="sr-only">按类型筛选</span><select id="category"><option value="">全部类型</option></select></label>
+      <label><span class="sr-only">按联机方式筛选</span><select id="mode"><option value="">全部联机方式</option><option value="online">支持在线</option><option value="local">支持同屏 / 远程同乐</option></select></label>
+      <label><span class="sr-only">按三人适配度筛选</span><select id="fit"><option value="">全部适配度</option><option value="3">三人优先</option><option value="2">三人可玩</option></select></label>
+      <label><span class="sr-only">按价格排序</span><select id="sort"><option value="recommended">精选排序</option><option value="price-asc">价格从低到高</option><option value="price-desc">价格从高到低</option><option value="name">按游戏名</option></select></label>
+      <button id="reset" class="reset" type="button">清除筛选</button>
+    </section>
+
+    <div class="results-bar"><p id="count" role="status" aria-live="polite">正在载入游戏…</p><p id="freshness"></p></div>
+    <div class="list-heading" aria-hidden="true"><span>游戏 / 玩法</span><span>三人适配</span><span>国区价格</span></div>
+    <div id="games" class="games" aria-label="游戏列表"></div>
+    <div id="empty" class="empty" hidden><strong>没有找到匹配的游戏</strong><p>试试更短的关键词，或清除筛选。</p></div>
+    <footer>价格来自 Steam 中国区商店，可能随促销变动。点击游戏名查看商店实时信息。</footer>
+  </main>
+</body>
+</html>
