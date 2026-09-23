@@ -2,7 +2,7 @@
 
 为固定三人组整理的 Steam 派对、欢乐合作与恐怖整活游戏清单。页面支持搜索、按类型和联机方式筛选、三人适配度筛选以及国区价格排序。
 
-访问地址：[https://ewiro.github.io/](https://ewiro.github.io/)
+访问地址：[https://ewiro.github.io/party-game/](https://ewiro.github.io/party-game/)
 
 ## 本地预览
 
