@@ -37,6 +37,13 @@ function card(game) {
   const reason = el('p', 'reason', game.reason);
   const facts = el('div', 'facts');
   facts.append(el('span', '', `人数 ${game.players}`), el('span', '', game.mode));
+  if (game.evidenceUrl) {
+    const evidence = el('a', 'evidence', `人数依据 · ${game.verifiedAt}`);
+    evidence.href = game.evidenceUrl;
+    evidence.target = '_blank';
+    evidence.rel = 'noopener noreferrer';
+    facts.append(evidence);
+  }
   info.append(tags, title, reason, facts);
   main.append(cover, info);
 

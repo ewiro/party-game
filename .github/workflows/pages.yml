@@ -30,6 +30,8 @@ jobs:
           node-version: '22'
       - name: Refresh Steam China prices
         run: node scripts/refresh.mjs
+      - name: Validate catalogue
+        run: node scripts/validate.mjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v5
         with:
