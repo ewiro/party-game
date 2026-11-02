@@ -1,31 +1,57 @@
 # 派对游戏候选覆盖报告
 
-生成日期：2026-10-26
+生成日期：2026-11-02
 
 ## 汇总
 
 - 正式清单：74 款
-- 本次扫描去重后：371 款
-- 待核验：477 款
-- 本次新发现待核验：43 款
+- 本次扫描去重后：356 款
+- 待核验：503 款
+- 本次新发现待核验：26 款
 - 已排除：0 款
-- 已收录且被发现流程覆盖：41 款
+- 已收录且被发现流程覆盖：44 款
 
 ## 发现入口
 
 | 入口 | 结果数 | 状态 |
 |---|---:|---|
 | 派对游戏 · 热门新品 | 9 | 正常 |
-| 派对游戏 · 热销 | 109 | 正常 |
-| 欢乐在线合作 · 热门新品 | 29 | 正常 |
-| 欢乐多人 · 热门新品 | 40 | 正常 |
+| 派对游戏 · 热销 | 101 | 正常 |
+| 欢乐在线合作 · 热门新品 | 25 | 正常 |
+| 欢乐多人 · 热门新品 | 36 | 正常 |
 | 恐怖在线合作 · 热门新品 | 25 | 正常 |
-| 本地多人派对 · 热销 | 28 | 正常 |
-| 派对游戏 · 热门愿望单 | 103 | 正常 |
-| 欢乐在线合作 · 热门愿望单 | 158 | 正常 |
+| 本地多人派对 · 热销 | 27 | 正常 |
+| 派对游戏 · 热门愿望单 | 101 | 正常 |
+| 欢乐在线合作 · 热门愿望单 | 154 | 正常 |
 
 ## 待核验候选
 
+- [好朋友](https://store.steampowered.com/app/3201370/) · AppID 3201370 · funny-online-wishlist
+- [坏冰淇淋](https://store.steampowered.com/app/5346730/) · AppID 5346730 · party-wishlist
+- [掘地求狗](https://store.steampowered.com/app/4244510/) · AppID 4244510 · funny-multiplayer-new;funny-online-new
+- [米斯卡托尼克大学美术部](https://store.steampowered.com/app/5366030/) · AppID 5366030 · party-top-sellers
+- [模拟老大爷](https://store.steampowered.com/app/979070/) · AppID 979070 · funny-multiplayer-new;funny-online-new
+- [托克朋王国 连结2](https://store.steampowered.com/app/5268930/) · AppID 5268930 · party-wishlist
+- [災難公關+](https://store.steampowered.com/app/2976890/) · AppID 2976890 · party-top-sellers
+- [Arcade & Motel Simulator Together](https://store.steampowered.com/app/4742920/) · AppID 4742920 · party-top-sellers
+- [BACK TOGETHER](https://store.steampowered.com/app/5086830/) · AppID 5086830 · party-top-sellers
+- [Backrooms: Escape Together](https://store.steampowered.com/app/2141730/) · AppID 2141730 · horror-online-new
+- [Bongo Cat](https://store.steampowered.com/app/3419430/) · AppID 3419430 · funny-multiplayer-new
+- [Drive UP: Together](https://store.steampowered.com/app/4058120/) · AppID 4058120 · party-top-sellers
+- [DUNK](https://store.steampowered.com/app/4591520/) · AppID 4591520 · funny-online-wishlist;party-wishlist
+- [Fully Funded](https://store.steampowered.com/app/5316360/) · AppID 5316360 · party-top-sellers
+- [Inside the Backrooms](https://store.steampowered.com/app/1987080/) · AppID 1987080 · horror-online-new
+- [Killing Things With Your Friends](https://store.steampowered.com/app/3675340/) · AppID 3675340 · funny-online-wishlist
+- [No Witnesses](https://store.steampowered.com/app/4961960/) · AppID 4961960 · party-top-sellers
+- [One Tank Trip](https://store.steampowered.com/app/5483960/) · AppID 5483960 · party-wishlist
+- [OUTLIER](https://store.steampowered.com/app/5207980/) · AppID 5207980 · funny-online-wishlist;party-wishlist
+- [Pacify](https://store.steampowered.com/app/967050/) · AppID 967050 · horror-online-new
+- [Polterguys: Possession Party](https://store.steampowered.com/app/1043520/) · AppID 1043520 · local-party-top
+- [QUIET](https://store.steampowered.com/app/4228630/) · AppID 4228630 · funny-online-wishlist;party-wishlist
+- [Sound System](https://store.steampowered.com/app/4242730/) · AppID 4242730 · party-wishlist
+- [Vital Decisions](https://store.steampowered.com/app/4997850/) · AppID 4997850 · funny-online-wishlist
+- [Worst Airline Ever](https://store.steampowered.com/app/4437750/) · AppID 4437750 · funny-online-wishlist;party-wishlist
+- [ZERO Sievert 2](https://store.steampowered.com/app/4210060/) · AppID 4210060 · funny-online-wishlist
 - [99 NIGHTS IN THE APOCALYPSE](https://store.steampowered.com/app/4362490/) · AppID 4362490 · funny-online-wishlist
 - [宝石争夺](https://store.steampowered.com/app/4216690/) · AppID 4216690 · local-party-top;party-top-sellers
 - [藏好私房钱](https://store.steampowered.com/app/5040820/) · AppID 5040820 · party-top-sellers
@@ -72,7 +98,7 @@
 - [《动物园之星 2》](https://store.steampowered.com/app/3219030/) · AppID 3219030 · funny-multiplayer-new
 - [暴力战车](https://store.steampowered.com/app/4216730/) · AppID 4216730 · party-top-sellers
 - [砍砍叠叠](https://store.steampowered.com/app/2228720/) · AppID 2228720 · party-top-sellers
-- [死亡派对](https://store.steampowered.com/app/1270660/) · AppID 1270660 · party-wishlist
+- [死亡派对](https://store.steampowered.com/app/1270660/) · AppID 1270660 · local-party-top;party-top-sellers;party-wishlist
 - [图说八道](https://store.steampowered.com/app/4727160/) · AppID 4727160 · local-party-top;party-top-sellers
 - [王国纪元 (Lords Mobile)](https://store.steampowered.com/app/1041320/) · AppID 1041320 · funny-multiplayer-new
 - [西瓜游戏](https://store.steampowered.com/app/4572790/) · AppID 4572790 · party-top-sellers
@@ -150,33 +176,7 @@
 - [Fish & Ships](https://store.steampowered.com/app/4738010/) · AppID 4738010 · funny-online-wishlist
 - [Fling to the Finish 终极拉扯](https://store.steampowered.com/app/1054430/) · AppID 1054430 · local-party-top;party-top-sellers
 - [Grounded](https://store.steampowered.com/app/962130/) · AppID 962130 · funny-multiplayer-new;funny-online-new;horror-online-new
-- [HeadOn - Body Cam Shooter Game](https://store.steampowered.com/app/4910920/) · AppID 4910920 · party-wishlist
-- [Left 4 Dead](https://store.steampowered.com/app/500/) · AppID 500 · horror-online-new
-- [Motion Soccer PRO](https://store.steampowered.com/app/3137350/) · AppID 3137350 · party-top-sellers
-- [Overcooked](https://store.steampowered.com/app/448510/) · AppID 448510 · funny-multiplayer-new
-- [The Jackbox Party Pack 11](https://store.steampowered.com/app/3364070/) · AppID 3364070 · local-party-top;party-top-sellers
-- [The Smurfs - Village Party](https://store.steampowered.com/app/2800630/) · AppID 2800630 · local-party-top;party-top-sellers
-- [Tower Tanks](https://store.steampowered.com/app/4597950/) · AppID 4597950 · funny-online-wishlist;party-wishlist
-- [UNCHARTED™: 盗贼传奇合辑](https://store.steampowered.com/app/1659420/) · AppID 1659420 · funny-multiplayer-new
-- [Wreck Runners](https://store.steampowered.com/app/1473960/) · AppID 1473960 · party-top-sellers
-- [みんなでティア表！](https://store.steampowered.com/app/4921660/) · AppID 4921660 · funny-online-wishlist;party-wishlist
-- [背刺派对](https://store.steampowered.com/app/4332910/) · AppID 4332910 · party-top-sellers
-- [超级浣熊羊](https://store.steampowered.com/app/2923350/) · AppID 2923350 · local-party-top;party-top-sellers
-- [大家一起 骰子街](https://store.steampowered.com/app/1969860/) · AppID 1969860 · local-party-top;party-top-sellers
-- [过山车之星2](https://store.steampowered.com/app/2688950/) · AppID 2688950 · funny-multiplayer-new;funny-online-new
-- [卡牌店模拟器 多人联机版](https://store.steampowered.com/app/3569500/) · AppID 3569500 · funny-multiplayer-new
-- [猫老板的秘密食谱](https://store.steampowered.com/app/3021530/) · AppID 3021530 · party-top-sellers
-- [萌兽乱斗](https://store.steampowered.com/app/1031080/) · AppID 1031080 · local-party-top;party-top-sellers
-- [喵了个菜！](https://store.steampowered.com/app/4201710/) · AppID 4201710 · party-top-sellers
-- [女神异闻录4 无敌究极后桥背摔](https://store.steampowered.com/app/1602010/) · AppID 1602010 · funny-multiplayer-new
-- [谁想成为百万富翁？(Who Wants To Be A Millionaire?)](https://store.steampowered.com/app/1356240/) · AppID 1356240 · party-top-sellers
-- [生灵重塑](https://store.steampowered.com/app/2129530/) · AppID 2129530 · horror-online-new
-- [斯诺克极速对战](https://store.steampowered.com/app/3970110/) · AppID 3970110 · party-top-sellers
-- [我不背锅](https://store.steampowered.com/app/2224610/) · AppID 2224610 · local-party-top;party-top-sellers
-- [像素德州扑克：教练版](https://store.steampowered.com/app/5119350/) · AppID 5119350 · party-top-sellers
-- [专业抬杠](https://store.steampowered.com/app/3564340/) · AppID 3564340 · party-top-sellers
-- [Bean There, Won That](https://store.steampowered.com/app/3130340/) · AppID 3130340 · party-top-sellers
 
-另有 327 款，请查看 `data/candidates.tsv`。
+另有 353 款，请查看 `data/candidates.tsv`。
 
 候选只代表需要核验。加入正式清单前，必须从 Steam 或游戏官网确认三人能够共同游玩。
