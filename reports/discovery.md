@@ -1,13 +1,13 @@
 # 派对游戏候选覆盖报告
 
-生成日期：2026-11-09
+生成日期：2026-11-16
 
 ## 汇总
 
 - 正式清单：74 款
-- 本次扫描去重后：365 款
-- 待核验：530 款
-- 本次新发现待核验：27 款
+- 本次扫描去重后：358 款
+- 待核验：552 款
+- 本次新发现待核验：22 款
 - 已排除：0 款
 - 已收录且被发现流程覆盖：44 款
 
@@ -15,21 +15,43 @@
 
 | 入口 | 结果数 | 状态 |
 |---|---:|---|
-| 派对游戏 · 热门新品 | 10 | 正常 |
-| 派对游戏 · 热销 | 109 | 正常 |
-| 欢乐在线合作 · 热门新品 | 26 | 正常 |
+| 派对游戏 · 热门新品 | 12 | 正常 |
+| 派对游戏 · 热销 | 116 | 正常 |
+| 欢乐在线合作 · 热门新品 | 27 | 正常 |
 | 欢乐多人 · 热门新品 | 35 | 正常 |
-| 恐怖在线合作 · 热门新品 | 23 | 正常 |
+| 恐怖在线合作 · 热门新品 | 20 | 正常 |
 | 本地多人派对 · 热销 | 27 | 正常 |
-| 派对游戏 · 热门愿望单 | 109 | 正常 |
-| 欢乐在线合作 · 热门愿望单 | 157 | 正常 |
+| 派对游戏 · 热门愿望单 | 98 | 正常 |
+| 欢乐在线合作 · 热门愿望单 | 153 | 正常 |
 
 ## 待核验候选
 
+- [嗨斗农场](https://store.steampowered.com/app/3448000/) · AppID 3448000 · local-party-top;party-top-sellers
+- [你画你猜](https://store.steampowered.com/app/4812940/) · AppID 4812940 · party-top-sellers
+- [鸟魂2 -勇者挑战-](https://store.steampowered.com/app/2850170/) · AppID 2850170 · local-party-top;party-top-sellers
+- [牛马](https://store.steampowered.com/app/3444220/) · AppID 3444220 · party-top-sellers
+- [踢石头](https://store.steampowered.com/app/5517930/) · AppID 5517930 · funny-online-wishlist
+- [整理个球](https://store.steampowered.com/app/5234330/) · AppID 5234330 · funny-online-wishlist
+- [Beetleball](https://store.steampowered.com/app/2776270/) · AppID 2776270 · party-top-sellers
+- [Catch Me!](https://store.steampowered.com/app/1741160/) · AppID 1741160 · party-top-sellers
+- [Clone Drone in the Danger Zone](https://store.steampowered.com/app/597170/) · AppID 597170 · funny-multiplayer-new;funny-online-new
+- [END US](https://store.steampowered.com/app/4178540/) · AppID 4178540 · party-wishlist
+- [First Class Trouble](https://store.steampowered.com/app/953880/) · AppID 953880 · party-top-sellers
+- [HANDS OVER](https://store.steampowered.com/app/4661070/) · AppID 4661070 · funny-multiplayer-new
+- [High Wizards](https://store.steampowered.com/app/5449310/) · AppID 5449310 · funny-online-wishlist
+- [Hit or Die](https://store.steampowered.com/app/5168130/) · AppID 5168130 · party-top-sellers
+- [Humaning](https://store.steampowered.com/app/5435650/) · AppID 5435650 · funny-online-wishlist
+- [In the Same Boat](https://store.steampowered.com/app/2548410/) · AppID 2548410 · funny-online-wishlist
+- [No Asteroids](https://store.steampowered.com/app/5527800/) · AppID 5527800 · funny-online-wishlist
+- [PHOBOS](https://store.steampowered.com/app/4101750/) · AppID 4101750 · party-top-sellers
+- [Streets of Rogue](https://store.steampowered.com/app/512900/) · AppID 512900 · funny-multiplayer-new;funny-online-new
+- [Stumble Guys](https://store.steampowered.com/app/1677740/) · AppID 1677740 · party-top-sellers
+- [The Yard: Escape from Prison](https://store.steampowered.com/app/4964620/) · AppID 4964620 · party-top-sellers
+- [Winx Club - Moonlight Quest](https://store.steampowered.com/app/5189950/) · AppID 5189950 · party-wishlist
 - [地牢矿工](https://store.steampowered.com/app/5088660/) · AppID 5088660 · party-top-sellers
 - [饿狼传说：群狼之城](https://store.steampowered.com/app/2492040/) · AppID 2492040 · funny-multiplayer-new
-- [给我吃一口！](https://store.steampowered.com/app/3305190/) · AppID 3305190 · party-wishlist
-- [码到成功|马到成功](https://store.steampowered.com/app/4364230/) · AppID 4364230 · party-top-sellers
+- [给我吃一口！](https://store.steampowered.com/app/3305190/) · AppID 3305190 · local-party-top;party-top-sellers;party-wishlist
+- [码到成功／马到成功](https://store.steampowered.com/app/4364230/) · AppID 4364230 · party-top-sellers
 - [Alterum](https://store.steampowered.com/app/4424420/) · AppID 4424420 · party-wishlist
 - [Blastlane Racers](https://store.steampowered.com/app/4398020/) · AppID 4398020 · party-top-sellers
 - [Cheap Car Repair](https://store.steampowered.com/app/2904040/) · AppID 2904040 · funny-multiplayer-new
@@ -39,7 +61,7 @@
 - [Farmed & Dangerous](https://store.steampowered.com/app/4533230/) · AppID 4533230 · funny-online-wishlist
 - [Gun a Rat](https://store.steampowered.com/app/4163660/) · AppID 4163660 · party-top-sellers
 - [Hide & Chick](https://store.steampowered.com/app/1939350/) · AppID 1939350 · party-top-sellers
-- [How They Built the Pyramids](https://store.steampowered.com/app/5458210/) · AppID 5458210 · funny-online-wishlist
+- [How They Built the Pyramids](https://store.steampowered.com/app/5458210/) · AppID 5458210 · funny-multiplayer-new;funny-online-new;funny-online-wishlist
 - [INTERVOID](https://store.steampowered.com/app/3985880/) · AppID 3985880 · funny-online-wishlist
 - [MARINES VS GOD](https://store.steampowered.com/app/3209950/) · AppID 3209950 · funny-online-wishlist;party-wishlist
 - [Marked For Mayhem](https://store.steampowered.com/app/2818700/) · AppID 2818700 · party-wishlist
@@ -87,7 +109,7 @@
 - [劫盗惊魂夜](https://store.steampowered.com/app/2208570/) · AppID 2208570 · funny-multiplayer-new;funny-online-new;horror-online-new
 - [烤肉!!!](https://store.steampowered.com/app/5087740/) · AppID 5087740 · party-top-sellers
 - [死域 Rogue](https://store.steampowered.com/app/3228590/) · AppID 3228590 · horror-online-new
-- [我带过的最差一届](https://store.steampowered.com/app/5175310/) · AppID 5175310 · funny-online-wishlist;party-wishlist
+- [我带过的最差一届](https://store.steampowered.com/app/5175310/) · AppID 5175310 · funny-multiplayer-new;funny-online-new;funny-online-wishlist;party-popular-new;party-top-sellers;party-wishlist
 - [我们曾到此永](https://store.steampowered.com/app/1341290/) · AppID 1341290 · horror-online-new
 - [咸鱼搬运工](https://store.steampowered.com/app/4740600/) · AppID 4740600 · party-top-sellers
 - [香蕉航空](https://store.steampowered.com/app/4835560/) · AppID 4835560 · funny-online-wishlist;party-wishlist
@@ -107,13 +129,13 @@
 - [Hidden in Plain Sight](https://store.steampowered.com/app/303590/) · AppID 303590 · local-party-top;party-top-sellers
 - [INVERSUS Deluxe](https://store.steampowered.com/app/432980/) · AppID 432980 · local-party-top;party-top-sellers
 - [Killing Floor 2](https://store.steampowered.com/app/232090/) · AppID 232090 · horror-online-new
-- [Kimodameshi Online](https://store.steampowered.com/app/5321510/) · AppID 5321510 · party-wishlist
+- [Kimodameshi Online](https://store.steampowered.com/app/5321510/) · AppID 5321510 · party-top-sellers;party-wishlist
 - [LUPKAR - World of Billiards](https://store.steampowered.com/app/5036340/) · AppID 5036340 · party-top-sellers
 - [Mini Motor Racing X](https://store.steampowered.com/app/1303990/) · AppID 1303990 · party-top-sellers
 - [Museum: Escape with Friends](https://store.steampowered.com/app/5332260/) · AppID 5332260 · funny-online-wishlist
 - [nanos world™](https://store.steampowered.com/app/1841660/) · AppID 1841660 · funny-online-wishlist
 - [Panic Delivery](https://store.steampowered.com/app/2887450/) · AppID 2887450 · party-top-sellers
-- [Pig King](https://store.steampowered.com/app/4563590/) · AppID 4563590 · funny-online-wishlist;party-wishlist
+- [Pig King](https://store.steampowered.com/app/4563590/) · AppID 4563590 · funny-multiplayer-new;funny-online-new;funny-online-wishlist;party-popular-new;party-top-sellers;party-wishlist
 - [Retimed](https://store.steampowered.com/app/760810/) · AppID 760810 · local-party-top;party-top-sellers
 - [Sincognito](https://store.steampowered.com/app/2174060/) · AppID 2174060 · party-wishlist
 - [SUPERPANEL](https://store.steampowered.com/app/3867450/) · AppID 3867450 · party-wishlist
@@ -154,29 +176,7 @@
 - [魔法双生](https://store.steampowered.com/app/4020120/) · AppID 4020120 · local-party-top;party-top-sellers
 - [墓后营生](https://store.steampowered.com/app/4635290/) · AppID 4635290 · funny-online-wishlist;party-wishlist
 - [水果山 派对](https://store.steampowered.com/app/3467540/) · AppID 3467540 · local-party-top;party-top-sellers
-- [吐迷藏](https://store.steampowered.com/app/5118740/) · AppID 5118740 · party-top-sellers
-- [兔兔烘焙坊 Bunny Bakery](https://store.steampowered.com/app/4159000/) · AppID 4159000 · local-party-top;party-top-sellers
-- [托克朋！怒之铁剑](https://store.steampowered.com/app/3077020/) · AppID 3077020 · local-party-top;party-top-sellers
-- [王国保卫战 5：联盟](https://store.steampowered.com/app/2849080/) · AppID 2849080 · funny-multiplayer-new
-- [勇敢者之试炼 : Invokyr](https://store.steampowered.com/app/3883570/) · AppID 3883570 · horror-online-new
-- [Drawaoke: Sing, Scribble, Showdown!](https://store.steampowered.com/app/5142810/) · AppID 5142810 · party-top-sellers
-- [Gears of War: E-Day](https://store.steampowered.com/app/3010850/) · AppID 3010850 · horror-online-new
-- [GeoGuessr Steam Edition](https://store.steampowered.com/app/3478870/) · AppID 3478870 · party-top-sellers
-- [Grampage: Life at 67](https://store.steampowered.com/app/4993490/) · AppID 4993490 · funny-online-wishlist;party-wishlist
-- [HAUNTED: Escape the Dollhouse](https://store.steampowered.com/app/3850670/) · AppID 3850670 · funny-online-wishlist
-- [Hot Meals Fast Wheels](https://store.steampowered.com/app/3957770/) · AppID 3957770 · party-wishlist
-- [Knock'Em Out](https://store.steampowered.com/app/2192900/) · AppID 2192900 · party-top-sellers
-- [Kukoro: Stream chat games](https://store.steampowered.com/app/1166990/) · AppID 1166990 · party-top-sellers
-- [MECCHA HORROR](https://store.steampowered.com/app/5006850/) · AppID 5006850 · party-wishlist
-- [Out of Stock!](https://store.steampowered.com/app/1938750/) · AppID 1938750 · local-party-top;party-top-sellers
-- [Pipe It：可疑水管工模拟器](https://store.steampowered.com/app/4625350/) · AppID 4625350 · funny-online-wishlist
-- [Pokerist 推出的牌九扑克](https://store.steampowered.com/app/4355320/) · AppID 4355320 · party-top-sellers
-- [POLYGON](https://store.steampowered.com/app/1241100/) · AppID 1241100 · party-top-sellers
-- [Redhowl](https://store.steampowered.com/app/3873330/) · AppID 3873330 · party-top-sellers
-- [Spooky Ride](https://store.steampowered.com/app/4613790/) · AppID 4613790 · funny-online-wishlist
-- [The Escapists 3](https://store.steampowered.com/app/3602260/) · AppID 3602260 · funny-online-wishlist
-- [Trivia Murder Party 3](https://store.steampowered.com/app/3048060/) · AppID 3048060 · local-party-top;party-top-sellers
 
-另有 380 款，请查看 `data/candidates.tsv`。
+另有 402 款，请查看 `data/candidates.tsv`。
 
 候选只代表需要核验。加入正式清单前，必须从 Steam 或游戏官网确认三人能够共同游玩。
